@@ -1,2 +1,7 @@
-# demo-estetica-dental-alberdi
-Demo web para ESTÉTICA DENTAL ALBERDI — diseñada por eterlab.
+# ESTÉTICA DENTAL ALBERDI
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
